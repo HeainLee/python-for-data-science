@@ -1,3 +1,13 @@
+#### SVHN 데이터 가져오는 방법
+ 
+train.tar.gz & test.tar.gz 압축해제 (tarfile_unzip.ipynb 참고)
+
+tar 파일 저장소 : https://drive.google.com/open?id=1j-SG_aaNO2U3HZtXBBaSpSoiRnNigs7l
+
+---------------------------
+
+URL : https://github.com/penny4860/svhn-voc-annotation-format
+
 # SVHN Voc Annotation Format
 
 This project provides the svhn dataset in [PASCAL VOC Annotation Format](http://host.robots.ox.ac.uk/pascal/VOC/voc2007/) and 
