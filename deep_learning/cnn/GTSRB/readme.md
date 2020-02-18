@@ -14,4 +14,9 @@ For more information on the competition procedures and to obtain the test set,
 please visit the competition website at
 
 * http://benchmark.ini.rub.de
-  
+
+
+## Getting data
+
+* https://drive.google.com/drive/folders/1JMKjuGtQi_7lHaMUuQLsXd3oww6c-iua?usp=sharing
+
