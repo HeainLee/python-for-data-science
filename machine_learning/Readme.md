@@ -4,6 +4,12 @@ Simple Data EDA and Make regression models
 
 URL : https://www.kaggle.com/c/bike-sharing-demand
 
+## Text Classification
+
+Simple Text Classification with Scikit-learn Classifier and Keras
+
+URL : ❔
+
 ## Jupyter Notebook Zip
 
 Local Notebooks's saved Jup Note 📁📁
